@@ -1,0 +1,28 @@
+[
+  {
+    "id": "math_multiplication",
+    "prompt": "What is 47 multiplied by 19?",
+    "expected": "893"
+  },
+  {
+    "id": "knowledge_author",
+    "prompt": "Who wrote the play 'Hamlet'?",
+    "expected": "William Shakespeare"
+  },
+  {
+    "id": "sentiment_positive",
+    "prompt": "Classify sentiment as Positive or Negative: 'I can’t believe how amazing this phone is!'",
+    "expected": "Positive"
+  },
+  {
+    "id": "summarization",
+    "prompt": "Summarize in one sentence: The rain poured all day, flooding streets, yet neighbors came together to help one another.",
+    "expected": "Neighbors supported each other during a day of flooding rain."
+  },
+  {
+    "id": "reasoning_logic",
+    "prompt": "If all cats are animals and some animals are black, can we conclude that some cats are black? Answer Yes or No and explain briefly.",
+    "expected": "No"
+  }
+]
+
